@@ -95,7 +95,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/patilchetan946/patilchetan946/output/snake.svg" alt="Snake animation" />
+<img src="https://kumar31tarun.github.io/kumar31tarun/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
